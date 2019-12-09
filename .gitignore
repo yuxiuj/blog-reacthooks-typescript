@@ -1,0 +1,13 @@
+.idea/
+.DS_Store
+.svn/
+*.log
+*.log.*
+*.gzip
+node_modules/
+npm-debug.log
+dist
+build
+/.vscode/
+yarn.lock
+package-lock.json
